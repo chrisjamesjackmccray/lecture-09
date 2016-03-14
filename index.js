@@ -1,6 +1,11 @@
-var shoe = 42;
-var shoe = "boot"
-var shoe = true;
+var shoe = 20;
+var soul = "dirt"
+var  = true;
+
+
+
+
+if
 
 var game = "basketball";
 
@@ -21,3 +26,6 @@ switch (game) {
 
   console.log("On the bench")
 }
+
+var = denied = false, age 14;
+age >= 16 denied = true;
